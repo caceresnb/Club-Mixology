@@ -588,6 +588,63 @@ header .navbar {
 
 
 /* Footer */
+.redesespacio {
+  margin: 20px 10px 20px 10px; }
+
+.sdider {
+  font-family: 'Rubik', sans-serif;
+  max-width: 100%; }
+
+.logo-footer {
+  margin-bottom: 20px; }
+
+.margin-footer {
+  margin-left: 108px;
+  margin-right: 130px; }
+
+.footer-contacts p {
+  font-size: 12px;
+  color: #AAAAAA; }
+
+.footer-list {
+  align-items: flex-start;
+  align-content: space-between; }
+
+.footer-list h4 {
+  font-size: 14px;
+  color: #AAAAAA; }
+
+.footer-list h6 {
+  font-size: 14px;
+  color: #AAAAAA; }
+
+.footer-list-enlaces {
+  color: #AAAAAA; }
+
+.footer-list-enlaces li {
+  color: #AAAAAA; }
+
+.footer-list-enlaces a {
+  color: #AAAAAA; }
+
+.footer-list-2 {
+  padding: 0px 70px 0px 20px; }
+
+.redesespacio-footer {
+  flex-wrap: wrap;
+  margin-left: 10px;
+  color: #888888;
+  text-decoration: none; }
+
+.redesespacio-footer:hover {
+  margin-left: 10px;
+  color: #ffffff;
+  text-decoration: none; }
+
+.slide-in-blurred-top {
+  -webkit-animation: slide-in-blurred-top 0.6s cubic-bezier(0.23, 1, 0.32, 1) both;
+  animation: slide-in-blurred-top 0.6s cubic-bezier(0.23, 1, 0.32, 1) both; }
+
 
 footer {
 	text-align: center;
