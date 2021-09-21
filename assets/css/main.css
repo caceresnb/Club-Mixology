@@ -13,6 +13,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #232323;
 }
+.listado {
+	width: 90%;
+	margin-top: 10px;
+	margin-left: 5%;
+}
+.primavera {
+	margin-left: 37%;
+	margin-top: 20px;
+	width: 30%;
+}
 p {
 	margin-bottom: 0px;
 	font-size: 14px;
