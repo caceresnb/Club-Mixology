@@ -900,8 +900,6 @@ footer .inner-content p a {
 }
 
 
-
-
 /* Clients */
 
 .happy-clients {
@@ -1039,7 +1037,6 @@ footer .inner-content p a {
 	border-bottom: 1px solid #eee;
 	padding: 15px 0px;
 }
-
 /* Responsive Style */
 @media (max-width: 768px) {
 	.banner .text-content {
@@ -1447,6 +1444,7 @@ footer .inner-content p a {
 	}
 	
 	@media (max-width: 576px)  {
+
 	/*********** Productos CSS **********/
 	.card {
 	  flex-direction: column;
@@ -1535,3 +1533,38 @@ footer .inner-content p a {
 		  font-family:BodoniXT;
 	  }
 	}
+
+	/*************** FORM *****************/
+	.seccionTextContacto {
+		text-align: center;
+		width: 50%;
+		margin-left: 25%;
+		margin-top: 5%;
+		margin-right: 25%;
+		margin-bottom: 5%;
+	  }
+	  
+.form {
+	width: 70%;
+	margin-left: 15%;
+  }
+  .tituloForm {
+	font-size: 30px;
+	text-align: center;
+	color: #e1dede;
+	margin: 1.8rem 0;
+  }
+  .btnForm {
+	background-color: #f95f2b;
+	color: white;
+	padding: 0.6rem;
+	margin-top: -0.5rem;
+	border: none;
+	border-radius: 6px;
+  }
+  .btnForm:hover {
+	animation: shake 500ms ease infinite;
+  }
+.barraPortada {
+	align-items: center;
+}
