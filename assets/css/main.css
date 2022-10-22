@@ -1534,6 +1534,7 @@ footer .inner-content p a {
 	  }
 	}
 
+
 	/*************** FORM *****************/
 	.seccionTextContacto {
 		text-align: center;
@@ -1551,11 +1552,24 @@ footer .inner-content p a {
   .tituloForm {
 	font-size: 30px;
 	text-align: center;
-	color: #e1dede;
+	color: #fafafa;
 	margin: 1.8rem 0;
   }
+  .contactP p{
+		font-size: 20px;
+		text-align: center;
+		color: #AAAAAA;
+		margin: 1.8rem 0;
+  }
+  .eContact p {
+	color:#f33f3f ;
+  }
+  .form-label {
+	  color: #e1dede;
+	  font-size: medium;
+  }
   .btnForm {
-	background-color: #f95f2b;
+	background-color: #f33f3f;
 	color: white;
 	padding: 0.6rem;
 	margin-top: -0.5rem;
